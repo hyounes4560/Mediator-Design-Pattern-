@@ -1,0 +1,12 @@
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\Gang Of Four\DoFactory.GangOfFour.Mediator.RealWorld\bin\Debug\DoFactory.GangOfFour.Mediator.RealWorld.exe.config
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\Gang Of Four\DoFactory.GangOfFour.Mediator.RealWorld\bin\Debug\DoFactory.GangOfFour.Mediator.RealWorld.exe
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\Gang Of Four\DoFactory.GangOfFour.Mediator.RealWorld\bin\Debug\DoFactory.GangOfFour.Mediator.RealWorld.pdb
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\Gang Of Four\DoFactory.GangOfFour.Mediator.RealWorld\obj\Debug\DoFactory.GangOfFour.Mediator.RealWorld.exe
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\Gang Of Four\DoFactory.GangOfFour.Mediator.RealWorld\obj\Debug\DoFactory.GangOfFour.Mediator.RealWorld.pdb
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\Gang Of Four\DoFactory.GangOfFour.Mediator.RealWorld\obj\Debug\DoFactory.GangOfFour.Mediator.RealWorld.csprojAssemblyReference.cache
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\DoFactory.GangOfFour.Mediator.RealWorld\bin\Debug\DoFactory.GangOfFour.Mediator.RealWorld.exe.config
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\DoFactory.GangOfFour.Mediator.RealWorld\bin\Debug\DoFactory.GangOfFour.Mediator.RealWorld.exe
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\DoFactory.GangOfFour.Mediator.RealWorld\bin\Debug\DoFactory.GangOfFour.Mediator.RealWorld.pdb
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\DoFactory.GangOfFour.Mediator.RealWorld\obj\Debug\DoFactory.GangOfFour.Mediator.RealWorld.csprojAssemblyReference.cache
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\DoFactory.GangOfFour.Mediator.RealWorld\obj\Debug\DoFactory.GangOfFour.Mediator.RealWorld.exe
+C:\Users\white\Desktop\Term 2\Systems Design\ProDotnetDesignPatternFramework45-master\DoFactory.GangOfFour.Mediator.RealWorld\obj\Debug\DoFactory.GangOfFour.Mediator.RealWorld.pdb
