@@ -47,7 +47,7 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
             beatle.Add(John);
             nonBeatle.Add(Yoko);
             nonBeatle.Add(Mark);
-            
+           
 
             // Chatting participants
             Yoko.Send("John", "Hi John!");
@@ -66,7 +66,6 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
             Ringo.SendMany(nonBeatle, thirdMessage);
 
             
-
             // Wait for user
             Console.ReadKey();
         }

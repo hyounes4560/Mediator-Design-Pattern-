@@ -21,7 +21,6 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
 
             }
 
-
             //add a participant to the chatroom
             participant.Chatroom = this;
 
@@ -48,12 +47,13 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
 
                 if (participant != null && participants[from] != participants[entry.Key])
                 {
-
                     participant.Receive(from, message);
                 }
 
-                else { Console.WriteLine("{0} you can't send yourself a message!", from); }
-
+                else 
+                { 
+                    Console.WriteLine("{0} you can't send yourself a message!", from);
+                }
 
             }
 
@@ -68,11 +68,13 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
                 Participant participant = participants[entry.Name];
                 if (participant != null && participants[from] != participants[entry.Name])
                 {
-
-                    participant.Receive(from, message);
+                     participant.Receive(from, message);
                 }
 
-                else { Console.WriteLine("{0} you can't send yourself a message!", from); }
+                else 
+                { 
+                    Console.WriteLine("{0} you can't send yourself a message!", from);
+                }
 
 
             }
