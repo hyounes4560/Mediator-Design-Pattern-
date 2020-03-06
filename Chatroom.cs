@@ -44,7 +44,7 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
             {
                 //to replace the [to] argument with participants[entry.Key]
                 Participant participant = participants[entry.Key];
-
+                
                 if (participant != null && participants[from] != participants[entry.Key])
                 {
                     participant.Receive(from, message);
@@ -64,7 +64,7 @@ namespace DoFactory.GangOfFour.Mediator.RealWorld
 
             foreach (Participant entry in to)
             {
-                //to replace the [to] argument with participants[entry.Key]
+                //to replace the [to] argument with participants[entry.Name]
                 Participant participant = participants[entry.Name];
                 if (participant != null && participants[from] != participants[entry.Name])
                 {
