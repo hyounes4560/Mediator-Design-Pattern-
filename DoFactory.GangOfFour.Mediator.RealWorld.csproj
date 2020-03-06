@@ -110,10 +110,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Beatle.cs" />
+    <Compile Include="NonBeatle.cs" />
+    <Compile Include="Participant.cs" />
     <Content Include="App.ico" />
+    <Compile Include="AbstractChatroom.cs" />
     <Compile Include="AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Chatroom.cs" />
     <Compile Include="MainApp.cs">
       <SubType>Code</SubType>
     </Compile>
